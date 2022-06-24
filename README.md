@@ -22,7 +22,7 @@
 <a href="https://twitter.com/mohit075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohit075" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-verma-1b4403230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-verma-1b4403230" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mohit.verma.072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohit.verma.072" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_mohit_072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_mohit_072" height="30" width="40" /></a>
+<a href="https://instagram.com/cse_mohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_mohit_072" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/c/programmingknowledge20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/programmingknowledge20" height="30" width="40" /></a>
 </p>
 
