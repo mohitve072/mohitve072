@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Verma</h1>
-<h3 align="center">I am student right now I am doing from bca baba bhimrao ambedkar (a central) university. My field is information technology. I learnt HTML ,CSS , javascript & C coding.</h3>
+<h3 align="center">I am enrolled as a Student of Computer Science and Engineering (CSE). Branch at Babasaheb Bhimrao Ambedkar University Lucknow. My field is information technology. I learnt HTML ,CSS , javascript & C coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitve072&label=Profile%20views&color=0e75b6&style=flat" alt="mohitve072" /> </p>
 
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-verma-1b4403230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-verma-1b4403230" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mohit.verma.072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohit.verma.072" height="30" width="40" /></a>
 <a href="https://instagram.com/cse_mohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_mohit_072" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/c/programmingknowledge20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/programmingknowledge20" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/c/ProgrammingKnowledge20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/programmingknowledge20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
